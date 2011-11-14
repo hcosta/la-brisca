@@ -1,4 +1,5 @@
-[[Información sobre el videojuego]]
+﻿[[Información sobre el videojuego]]
+[[Branch de pruebas]]
 Autor: Programado por Héctor Costa Guzmán
 Web: www.hcosta.info
 Año: 2011
