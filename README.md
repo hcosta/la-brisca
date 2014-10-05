@@ -1,4 +1,5 @@
-[[Información sobre el videojuego]]
+Información sobre el videojuego
+*******************************
 Autor: Programado por Héctor Costa Guzmán
 Web: www.hcosta.info
 Año: 2011
