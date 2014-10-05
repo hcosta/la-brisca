@@ -1,5 +1,3 @@
-package labrisca;
-
 /**
  * LaBrisca 2011
  * @author Hector COsta Guzman

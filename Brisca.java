@@ -1,5 +1,3 @@
-package labrisca;
-
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
@@ -29,7 +27,7 @@ public final class Brisca extends javax.swing.JFrame {
         cargarImagenes();
         nuevoJuego();
         initComponents();
-        setIconImage(icono);
+        //setIconImage(icono);
 
         //con esto centramos la ventana al medio
         setLocationRelativeTo(null);
@@ -358,8 +356,8 @@ public final class Brisca extends javax.swing.JFrame {
 
     public void cargarImagenes() {
 
-        // get its metrics
-        icono = Toolkit.getDefaultToolkit().getImage(getClass().getResource(sRuta + "icono.gif"));
+        // get its metrics    	// System.out.println(getClass().getResource(sRuta + "tablero.gif"));
+        //icono = Toolkit.getDefaultToolkit().getImage(getClass().getResource(sRuta + "icono.gif"));
         tablero = Toolkit.getDefaultToolkit().getImage(getClass().getResource(sRuta + "tablero.gif"));
         reversaG = Toolkit.getDefaultToolkit().getImage(getClass().getResource(sRuta + "reversa.png"));
         reversa = Toolkit.getDefaultToolkit().getImage(getClass().getResource(sRuta + "0.png"));
@@ -367,7 +365,7 @@ public final class Brisca extends javax.swing.JFrame {
 
     }
     private Image icono, tablero, paloImg, reversaG, reversa, cartaJ1, cartaJ2, cartaJ, foco;
-    //  private String sRuta = ".\\resources\\";
+    //private String sRuta = ".\\resources\\";
     private String sRuta = "/Imagenes/";
     private BufferedImage db = new BufferedImage(948, 590, BufferedImage.TYPE_4BYTE_ABGR);
     private Graphics gdb = db.getGraphics();

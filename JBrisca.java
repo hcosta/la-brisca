@@ -1,5 +1,3 @@
-package labrisca;
-
 import java.awt.Toolkit;
 import java.util.ArrayList;
 import java.util.Collections;

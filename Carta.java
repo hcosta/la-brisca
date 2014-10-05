@@ -1,5 +1,3 @@
-package labrisca;
-
 import java.awt.Image;
 
 /**
