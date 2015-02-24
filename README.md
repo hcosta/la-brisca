@@ -7,3 +7,4 @@
 * Derechos: Código Libre, sólo pido cita sobre autoría, sin derechos sobre las imágenes
 * Acciones no disponibles: Arrastre en la última ronda
 * Opciones disponibles: Cambiar 2 y 7
+* Descarga: [http://sourceforge.net/p/labrisca/home/Home/](http://sourceforge.net/p/labrisca/home/Home/)
