@@ -1,10 +1,15 @@
-# Información sobre el videojuego
+# La Brisca
 
-* Autor: Programado por Héctor Costa Guzmán
-* Web: www.hcosta.info
+Juego programado en Java en mis años mozos, por entonces no conocía ninguna librería para renderizar videojuegos, por lo que está desarrollado usando componentes básicos de la interfaz gráfica.
+
+## Demo
+
+<img src="/docs/demo.gif"/>
+
+## Información
+
 * Año: 2011
 * Lenguaje: Java
-* Derechos: Código Libre, sólo pido cita sobre autoría, sin derechos sobre las imágenes
-* Acciones no disponibles: Arrastre en la última ronda
 * Opciones disponibles: Cambiar 2 y 7
-* Descarga: [http://sourceforge.net/p/labrisca/home/Home/](http://sourceforge.net/p/labrisca/home/Home/)
+* Acciones no disponibles: Arrastre en la última ronda
+* Descarga: [https://sourceforge.net/projects/labrisca/](https://sourceforge.net/projects/labrisca/files/latest/download)

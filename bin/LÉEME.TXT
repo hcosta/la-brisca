@@ -1,0 +1,110 @@
+[[Información sobre el videojuego]]
+Autor: Programado por Héctor Costa Guzmán
+Web: www.hcosta.info
+Año: 2011
+Lenguaje: Java
+Derechos: Código Libre, sólo pido cita sobre autoría, sin derechos sobre las imágenes.
+Acciones no disponibles: Arrastre en la última ronda
+Opciones disponibles: Cambiar 2 y 7.	
+Funcionamiento: Doble clic en el ejecutable LaBrisca.jar
+	
+A continuación os pongo de qué trata y cómo se juega, cortesía de Wikipedia:
+http://es.wikipedia.org/wiki/Brisca
+	
+[[Breve introducción]]
+
+La brisca es un juego de naipes que se juega con la baraja española. Se puede jugar de a dos, 
+de a cuatro (dos parejas enfrentadas) o de a seis (dos equipos de tres jugadores enfrentados), 
+pero el juego de a cuatro es el más habitual. Si se juega de a seis se utilizará una baraja 
+española normal de 48 cartas y si no, se jugará con una baraja española de 40 (la baraja de 
+48 menos los ochos y los nueves).
+
+[[Objetivo]]
+
+Para ganar este juego un jugador debe obtener el mayor número de puntos posible, ganando las 
+manos. Las cartas más altas de cada palo son los ases (11 puntos), seguidos de los treses 
+(10 puntos) y las figuras (4 puntos para el rey, 3 para el caballo y 2 para la sota).
+
+[[El juego]]
+
+Repartir
+Para comenzar el juego se reparten tres cartas a cada jugador. En caso de estar jugando a 
+parejas, en algunas variantes del juego los jugadores de cada pareja se intercambian las 
+cartas para saber qué tres cartas tiene su compañero. Esto no podrá hacerse jamás en caso de 
+estar jugando seis jugadores.
+
+[Asignar triunfo]
+
+Tras haber repartido las cartas, se coloca el mazo de naipes españoles restantes en medio de 
+la mesa, se levanta el primero y se coloca boca arriba. El palo de esta carta se considera 
+triunfo y las cartas de este palo ganan a las de los demás, por muy altas que sean. En algunas 
+variantes del juego se asigna un triunfo por partida, comenzando por los oros. Es decir, en 
+la primera es oros; en la segunda, copas; en la tercera, espadas, y finalmente, bastos. Al 
+finalizar estos cuatro juegos, gana el que haya tenido más victorias o más puntos sumados 
+de las cuatro partidas.
+
+[Dinámica]
+
+Ahora se comienza a jugar. El jugador de la derecha de quien ha repartido pone una carta y 
+cada jugador va poniendo otra. Después el jugador de su derecha lanza otra carta y así 
+sucesivamente. Si se juega entre dos personas entonces cada jugador debe echar dos cartas 
+alternando la jugada.
+
+Subir la carta más alta (asistir) no es obligatorio como en el tute y un jugador puede 
+echar voluntariamente una carta inferior si teme, por ejemplo, que el rival se la levante 
+con un triunfo. El último jugador en echar será el que ha repartido.
+
+Gana el juego el que eche la más alta y se lleva las cartas, teniendo en cuenta que:
+
+	a) en caso de que todas las cartas sean del mismo palo, gana el que haya puesto la más alta.
+	b) en caso de que se echen cartas de diferente palo que no sean triunfo, gana el que haya puesto 
+	la carta más alta del palo del que haya echado la primera carta.
+	c) en caso de que alguien eche un triunfo, gana el que haya echado el triunfo más alto, 
+	independientemente del valor de las cartas de otro palo que se hayan echado.
+
+Tras esto, el jugador que haya ganado la mano recoge las cartas y las coloca boca abajo 
+frente a sí. Después los jugadores roban una carta del mazo por turnos, comenzando el que 
+haya ganado la mano y siguiéndole los demás en sentido contrario a las agujas del reloj. El 
+que haya ganado empezará entonces una nueva mano echando una carta. Se jugará así sucesivamente 
+hasta que se acabe el mazo (17 manos si se está jugando de a dos, siete si se está jugando por 
+parejas y seis si se está jugando por equipos de tres personas). Después de acabarse el mazo 
+los jugadores jugarán las últimas tres manos con las tres cartas que tengan en la mano, sin 
+robar carta tras cada mano.
+
+Si la carta que está descubierta para señalar el triunfo es superior a siete, puede ser 
+intercambiada por el siete del mismo palo por cualquier jugador que tenga el siete en la mano,
+en cualquier momento, incluso mientras se está jugando una mano, siempre que el jugador en 
+cuestión haya ganado al menos una mano. En caso de que la carta sea siete o inferior, puede 
+intercambiarse por el dos. De cualquier manera esto debe hacerse antes de que se haya empezado 
+a robar por última vez.
+
+Al final de la partida, si un equipo tiene en sus manos los tres triunfos más altos que queden 
+en el juego, lo dice y recoge todas las cartas, sin que sea necesario jugar las manos, que, por 
+otra parte, ganarían igualmente. Esto también puede hacerse cuando a cada jugador le quedan dos 
+cartas si se tienen en la mano los dos triunfos más altos que quedan en el juego.
+
+Si un jugador tiene el 1 del palo predominante podrá decir: "arrastro" y todos los jugadores 
+que en esa ronda no hayan echado cartas tendrán que echar la mejor carta de su mano empezando 
+por el palo predominante en el orden de 3, rey, caballo, sota, 9, 8, 7, 6, 5, 4 y 2.
+
+En el caso de no tener cartas del palo predominante se echará la mejor carta de la mano en un 
+orden igual al anterior.
+
+Si por ejemplo, el palo triunfo es el de oros y alguien echa el 1 de oros y dice "arrastro", 
+si tu aún no has echado esta ronda y tienes el 3 de bastos, el 1 de espadas y el 1 de copas; 
+estarás obligado a echar el 1 de espadas o el 1 de copas, pero si en el mismo caso tienes el 
+3 de bastos, el 1 de espadas y el 2 de oros; estarás obligado a echar el 2 de oros porque es 
+la carta del palo predominante más alta que tienes
+
+[Ponderación]
+
+Al acabar la partida, cada equipo contará los puntos que ha ganado, contando, como se ha 
+explicado anteriormente, 11 puntos por cada as, 10 por cada tres, 4 por cada rey, 3 por cada 
+caballo y dos por cada sota. Las demás cartas, aunque pueden haber servido para ganar manos 
+no cuentan puntos. El equipo que más puntos consiga vence. Hay que tener en cuenta que todos 
+los puntos suman 120, de modo que el que pase de sesenta puntos gana. Puede darse el caso de 
+que se empate a sesenta. En algunas variantes del juego ganar por más de cien puntos vale dos 
+puntos. Se suele jugar a tres, cinco o siete partidas ganadas.
+
+En algunos lugares de México existe otra forma de ganar. El objetivo es no sumar más de 11 
+puntos totales al acabar la partida.
